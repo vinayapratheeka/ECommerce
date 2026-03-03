@@ -39,9 +39,6 @@ public class HomePage {
 
         wait.until(ExpectedConditions.elementToBeClickable(cartIcon));
         driver.findElement(cartIcon).click();
-
-        wait.until(ExpectedConditions.urlContains("cart.html"));
-
         return new CartPage();
     }
 }
