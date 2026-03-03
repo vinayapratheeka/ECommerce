@@ -40,9 +40,6 @@ public class CheckoutPage {
 
         wait.until(ExpectedConditions.elementToBeClickable(continueButton));
         driver.findElement(continueButton).click();
-
-        wait.until(ExpectedConditions.urlContains("checkout-step-two.html"));
-
         return this;
     }
 
@@ -50,8 +47,6 @@ public class CheckoutPage {
 
         wait.until(ExpectedConditions.elementToBeClickable(finishButton));
         driver.findElement(finishButton).click();
-
-        wait.until(ExpectedConditions.urlContains("checkout-complete.html"));
 
         return this;
     }

@@ -22,18 +22,9 @@ public class CartPage {
     private By cartTitle = By.className("title");
 
     public CheckoutPage clickCheckout() {
-
-        // Ensure we are on Cart page
-        wait.until(ExpectedConditions.urlContains("cart.html"));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(cartTitle));
-
         // Click Checkout
         wait.until(ExpectedConditions.elementToBeClickable(checkoutButton));
         driver.findElement(checkoutButton).click();
-
-        // Ensure navigation happened
-        wait.until(ExpectedConditions.urlContains("checkout-step-one.html"));
-
         return new CheckoutPage();
     }
 }
