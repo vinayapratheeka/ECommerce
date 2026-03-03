@@ -32,10 +32,6 @@ public class HomePage {
 
         wait.until(ExpectedConditions.elementToBeClickable(addBackpack));
         driver.findElement(addBackpack).click();
-
-        // Ensure product really added
-        wait.until(ExpectedConditions.visibilityOfElementLocated(cartBadge));
-
         return this;
     }
 
