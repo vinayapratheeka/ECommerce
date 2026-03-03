@@ -25,8 +25,7 @@ public class OrderTest extends BaseTest {
         return ExcelUtil.getTestData("Sheet1");
     }
 
-    @Test(dataProvider = "orderData",
-    	      retryAnalyzer = utils.RetryAnalyser.class)
+    @Test(dataProvider = "orderData")
     public void completeOrderFlowTest(String username,
                                       String password,
                                       String firstName,
