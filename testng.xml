@@ -1,0 +1,14 @@
+
+<suite name="EcommerceSuite">
+
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+
+    <test name="E2E">
+        <classes>
+            <class name="tests.OrderTest"/>
+        </classes>
+    </test>
+
+</suite>

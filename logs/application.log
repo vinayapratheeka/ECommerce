@@ -1,0 +1,386 @@
+2026-03-03 14:57:50.597 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:57:50.624 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:57:50.637 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:57:52.199 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:57:52.336 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:57:52.617 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:57:52.835 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 14:58:06.517 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:58:06.537 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:58:06.540 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:58:08.135 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:58:08.409 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:58:08.746 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:58:08.963 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 14:58:24.526 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:58:24.534 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:58:24.535 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:58:25.447 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:58:25.547 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:58:25.752 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:58:25.900 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 14:58:39.431 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:58:39.435 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:58:39.436 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:58:40.189 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:58:40.253 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:58:40.462 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:58:40.689 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 14:58:54.563 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:58:54.564 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:58:54.565 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:58:55.210 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:58:55.312 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:58:55.517 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:58:55.736 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 14:59:09.052 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 14:59:09.057 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 14:59:09.059 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 14:59:09.865 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 14:59:09.944 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 14:59:10.137 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 14:59:10.304 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:02:28.696 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:02:28.710 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:02:28.715 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:02:29.580 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:02:29.755 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:02:29.972 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:02:30.206 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:02:45.126 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:02:45.127 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:02:45.128 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:02:45.855 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:02:45.944 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:02:46.170 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:02:46.377 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:02:59.653 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:02:59.658 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:02:59.666 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:03:00.569 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:03:00.659 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:03:00.928 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:03:01.171 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:03:14.938 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:03:14.938 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:03:14.938 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:03:15.732 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:03:15.803 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:03:16.037 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:03:16.220 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:03:29.792 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:03:29.792 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:03:29.793 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:03:30.650 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:03:30.748 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:03:30.924 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:03:31.083 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:03:45.159 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:03:45.164 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:03:45.165 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:03:46.360 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:03:46.427 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:03:46.614 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:03:46.793 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:09:04.604 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:09:04.653 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:09:04.666 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:09:05.774 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:09:05.862 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:09:06.068 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:09:06.251 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:09:13.429 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:09:14.335 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:09:14.436 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:09:19.661 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:09:19.665 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:09:19.666 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:09:20.574 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:09:20.655 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:09:20.851 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:09:21.008 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:09:21.232 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:09:35.895 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:09:35.895 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:09:35.897 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:09:36.877 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:09:36.970 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:09:37.200 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:09:37.470 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:09:52.291 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:09:52.292 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:09:52.293 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:09:53.099 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:09:53.175 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:09:53.367 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:09:53.558 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:12:54.007 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:12:54.016 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:12:54.021 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:12:56.338 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:12:56.402 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:12:58.018 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:12:59.793 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:13:14.017 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:13:14.027 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:13:14.029 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:13:16.324 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:13:16.384 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:13:18.004 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:13:19.654 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:13:21.290 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:13:23.426 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:13:23.461 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:13:27.081 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:13:27.083 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:13:27.084 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:13:29.495 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:13:29.537 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:13:31.166 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:13:32.848 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:13:46.259 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:13:46.260 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:13:46.261 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:13:48.642 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:13:48.695 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:13:50.320 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:13:52.086 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:13:53.731 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:13:55.829 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:13:55.870 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:16:51.540 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:16:51.549 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:16:51.552 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:16:54.215 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:16:54.277 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:16:55.954 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:16:57.595 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:17:12.171 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:17:12.182 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:17:12.184 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:17:14.760 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:17:14.797 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:17:16.445 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:17:18.168 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:17:19.975 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:17:22.528 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:17:22.668 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:25:10,858 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:25:10,876 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:25:10,882 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:25:13,212 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:25:13,282 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:25:14,910 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:25:16,655 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:25:18,368 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:25:20,515 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:25:20,567 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:25:23,789 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:25:23,790 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:25:23,790 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:25:26,125 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:25:26,164 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:25:27,790 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:25:29,464 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:25:31,116 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:25:33,118 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:25:33,171 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:27:53,252 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:27:53,262 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:27:53,270 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:27:55,603 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:27:55,700 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:27:57,330 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:27:59,010 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:28:00,705 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:28:02,870 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:28:02,906 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:28:07,264 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:28:07,265 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:28:07,265 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:28:09,484 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:28:09,522 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:28:11,134 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:28:12,750 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:28:14,388 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:28:16,497 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:28:16,588 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:29:50,089 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:29:50,098 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:29:50,104 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:29:52,520 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:29:52,625 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:29:54,317 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:29:55,939 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:29:57,613 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:29:59,765 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:29:59,809 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:30:02,958 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:30:02,960 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:30:02,960 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:30:05,375 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:30:05,410 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:30:07,030 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:30:08,669 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:33:31,077 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:33:31,089 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:33:31,095 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:33:33,859 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:33:34,056 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:33:35,870 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:33:37,556 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:33:39,247 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:33:41,527 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:33:41,602 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:33:45,054 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:33:45,055 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:33:45,056 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:33:47,447 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:33:47,489 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:33:49,131 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:33:50,775 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:33:52,453 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:33:54,568 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:33:54,608 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:35:10,847 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:35:10,863 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:35:10,867 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:35:13,556 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:35:13,644 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:35:15,296 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:35:16,959 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:40:10,102 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:40:10,120 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:40:10,125 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:40:12,617 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:40:12,688 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:40:14,331 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:40:16,109 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:40:17,943 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:40:20,313 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:40:20,403 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:40:24,746 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:40:24,753 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:40:24,755 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:40:27,819 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:40:27,859 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:40:29,464 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:40:31,115 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:40:32,865 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:40:35,057 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:40:35,096 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:44:42,216 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:44:42,230 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:44:42,236 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:44:44,569 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:44:44,631 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:44:46,264 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:44:47,909 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:44:49,590 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:44:51,658 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:44:51,698 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:44:55,531 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:44:55,531 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:44:55,531 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:44:57,968 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:44:58,023 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:44:59,632 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:45:01,267 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:45:02,889 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:45:05,062 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:45:05,120 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:45:09,631 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:45:09,632 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:45:09,632 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:45:12,000 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:54:16,434 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:54:16,455 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:54:16,473 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:54:18,846 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:54:18,908 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:54:20,523 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:54:22,211 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:54:23,937 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:54:26,195 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:54:26,240 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:54:31,402 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:54:31,403 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:54:31,404 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:54:33,886 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:54:33,942 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:54:35,634 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:54:37,289 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:54:38,968 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:54:41,093 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:54:41,149 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:54:44,446 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:54:44,446 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:54:44,447 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:54:46,558 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:54:49,918 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:54:49,919 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:54:49,920 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:54:52,155 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:54:55,629 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:54:55,630 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:54:55,630 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:54:57,807 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:58:14,293 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:58:14,301 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:58:14,304 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:58:16,514 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:58:16,616 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:58:18,285 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:58:19,998 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:58:21,763 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:58:24,141 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:58:24,183 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:58:27,972 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:58:27,972 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:58:27,973 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:58:29,984 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:58:30,049 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 15:58:31,756 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 15:58:33,446 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 15:58:35,229 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 15:58:37,812 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 15:58:37,916 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 15:58:40,261 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:58:40,262 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:58:40,262 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:58:42,124 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:58:44,654 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:58:44,654 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:58:44,655 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:58:46,697 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 15:58:49,065 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 15:58:49,066 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 15:58:49,067 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 15:58:51,176 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 16:01:57,446 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 16:01:57,456 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 16:01:57,462 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 16:01:59,624 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 16:01:59,730 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 16:02:01,397 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 16:02:03,085 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 16:02:04,840 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 16:02:07,174 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 16:02:07,253 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 16:02:09,595 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 16:02:09,595 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 16:02:09,596 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 16:02:11,563 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 16:02:11,629 [main] INFO  tests.OrderTest - Adding product to cart
+2026-03-03 16:02:13,258 [main] INFO  tests.OrderTest - Navigating to Cart Page
+2026-03-03 16:02:14,958 [main] INFO  tests.OrderTest - Clicking Checkout button
+2026-03-03 16:02:16,706 [main] INFO  tests.OrderTest - Entering checkout details
+2026-03-03 16:02:19,104 [main] INFO  tests.OrderTest - Validating order confirmation message
+2026-03-03 16:02:19,183 [main] INFO  tests.OrderTest - ========= ORDER FLOW TEST COMPLETED SUCCESSFULLY =========
+2026-03-03 16:02:21,467 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 16:02:21,467 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 16:02:21,467 [main] INFO  tests.OrderTest - Entering username and password
+2026-03-03 16:02:23,370 [main] INFO  tests.OrderTest - Validating Home Page after login
+2026-03-03 16:02:27,066 [main] INFO  tests.OrderTest - ========= STARTING ORDER FLOW TEST =========
+2026-03-03 16:02:27,067 [main] INFO  tests.OrderTest - Launching Login Page
+2026-03-03 16:02:27,068 [main] INFO  tests.OrderTest - Entering username and password
