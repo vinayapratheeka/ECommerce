@@ -32,7 +32,7 @@ public class OrderTest extends BaseTest {
                                       String lastName,
                                       String zip) throws InterruptedException {
 
-        logger.info("========= STARTING ORDER FLOW TEST =========");
+        logger.info("STARTING ORDER FLOW TEST");
 
         // Step 1: Login
         logger.info("Launching Login Page");
