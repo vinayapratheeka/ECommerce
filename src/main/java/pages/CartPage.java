@@ -18,7 +18,7 @@ public class CartPage {
         this.wait = new WebDriverWait(driver, Duration.ofSeconds(15));
     }
 
-    private By checkoutButton = By.xpath("//button[text()='Checkout']");
+    private By checkoutButton = By.cssSelector("[data-test='checkout']");
 
     public CheckoutPage clickCheckout() {
         // Click Checkout
